@@ -23,12 +23,14 @@ Have questions, feedback, or collaboration ideas? We’d love to hear from you. 
 # Technologies Used
 
 • HTML: For structuring the content and layout of the pages.
+
 • CSS: For styling, including fonts, colors, layouts, hover effects.
 
 
 # Learning Outcomes:
 
 • Improved understanding of HTML and CSS for web development . 
+
 • Practical experience in creating a professional web layout using basic web development tools.
 
 # Check out the page
