@@ -33,7 +33,7 @@ Have questions, feedback, or collaboration ideas? We’d love to hear from you. 
 
 # Check out the page
 
-Click [https://jpriya28.github.io/Udemy-Clone/] here to visit my  website.
+Click [https://jpriya28.github.io/dress-store-websites/] here to visit my  website.
 
 # Contributing
 
